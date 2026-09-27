@@ -290,7 +290,7 @@ The new country is automatically picked up by the MCP `list_countries_tool` and 
 
 ## Contributors
 
-- **[quyen2867](https://github.com/Mquyen186)** — author & maintainer
+- **[quyen2867](https://github.com/quyen2867)** — author & maintainer
 
 ---
 
