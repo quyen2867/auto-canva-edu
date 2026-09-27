@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yowes — Công Cụ Tạo Tài Liệu Canva Education
+# Công Cụ Tạo Tài Liệu Canva Education
 
 **MCP server chạy ngầm (headless)** giúp tạo giấy tờ xác minh giáo viên — thư xác nhận công tác, thẻ giáo viên, giấy phép giảng dạy, phiếu lương và nhiều loại khác — cho **13 quốc gia**.
 
